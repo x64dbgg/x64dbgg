@@ -4,7 +4,7 @@ Hi there, I'm x64dbgg 👋
 I'm a passionate solo developer with a keen interest in understanding the depths of Windows internals and exploring the capabilities of the Windows API. My journey in programming has led me to delve into kernel-level development, reverse engineering, and low-level programming, working with C++ and C.
 My Skills
 
-    ```Programming Languages:
+    Programming Languages:
         C++
         C
         Assembly
@@ -13,7 +13,7 @@ My Skills
         Windows API (WinAPI)
         Windows Internals
         Kernel-Level Development
-        Reverse Engineering```
+        Reverse Engineering
 
 **What I'm Working On**
 
