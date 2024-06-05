@@ -1,7 +1,6 @@
-Hi there, I'm x64dbgg 👋
 **Solo Developer | WinAPI | Kernel-Level Developer**
 
-I'm a passionate solo developer with a keen interest in understanding the depths of Windows internals and exploring the capabilities of the Windows API. My journey in programming has led me to delve into kernel-level development, reverse engineering, and low-level programming, working with C++ and C.
+I'm a solo developer with a keen interest in understanding the depths of Windows internals and exploring the capabilities of the Windows API. My journey in programming has led me to delve into kernel-level development, reverse engineering, and low-level programming, working with C++ and C.
 My Skills
 
     Programming Languages:
